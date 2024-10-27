@@ -84,3 +84,11 @@
 .task-checkbox {
   margin: 0 1rem 0 0;
 }
+
+.filter-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: auto;
+  padding-top: 20px;
+}
